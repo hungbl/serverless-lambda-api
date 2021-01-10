@@ -1,0 +1,13 @@
+{
+  "name": "serverless-lambda-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-appsync": "^4.0.1",
+    "aws-sdk": "^2.625.0",
+    "axios": "^0.19.2",
+    "cross-fetch": "^3.0.6",
+    "graphql-tag": "^2.11.0",
+    "js2xmlparser": "^4.0.1",
+    "serverless-prune-plugin": "^1.4.2"
+  }
+}
